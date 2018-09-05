@@ -1,2 +1,2 @@
 # ChatApp-Test
-Learning NodeJS and Socket.io features.
+Learning NodeJS and testing Socket.io features.
